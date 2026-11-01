@@ -1,0 +1,26 @@
+name: ARM64 test
+on: workflow_dispatch
+jobs:
+  test:
+    runs-on: ubuntu-24.04-arm
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Show the machine is ARM
+        run: |
+          uname -m
+          lscpu | head -20
+          nproc
+          free -h
+      - name: Install CPU-only PyTorch
+        run: pip install torch torchvision --index-url https://download.pytorch.org/whl/cpu
+      - name: Install Ultralytics
+        run: pip install ultralytics opencv-python-headless
+      - name: Run detection
+        run: yolo predict model=yolo26n.pt source=test.mp4 imgsz=640
+      - uses: actions/upload-artifact@v4
+        with:
+          name: output
+          path: runs
