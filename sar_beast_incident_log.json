@@ -1,0 +1,2747 @@
+[
+    {
+        "timestamp": "2026-08-28 22:35:12",
+        "target": "person",
+        "confidence": 0.59,
+        "bounding_box": [
+            90,
+            6,
+            1103,
+            710
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:12",
+        "target": "person",
+        "confidence": 0.86,
+        "bounding_box": [
+            62,
+            6,
+            1074,
+            710
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:12",
+        "target": "person",
+        "confidence": 0.83,
+        "bounding_box": [
+            55,
+            4,
+            1068,
+            709
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:12",
+        "target": "person",
+        "confidence": 0.83,
+        "bounding_box": [
+            53,
+            4,
+            1066,
+            709
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:12",
+        "target": "person",
+        "confidence": 0.88,
+        "bounding_box": [
+            60,
+            6,
+            1069,
+            709
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:12",
+        "target": "person",
+        "confidence": 0.88,
+        "bounding_box": [
+            62,
+            6,
+            1070,
+            709
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:12",
+        "target": "person",
+        "confidence": 0.79,
+        "bounding_box": [
+            81,
+            5,
+            1088,
+            711
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:12",
+        "target": "person",
+        "confidence": 0.84,
+        "bounding_box": [
+            71,
+            6,
+            1077,
+            711
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:12",
+        "target": "person",
+        "confidence": 0.84,
+        "bounding_box": [
+            68,
+            6,
+            1072,
+            711
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:12",
+        "target": "person",
+        "confidence": 0.84,
+        "bounding_box": [
+            55,
+            6,
+            1061,
+            711
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:13",
+        "target": "person",
+        "confidence": 0.88,
+        "bounding_box": [
+            55,
+            7,
+            1063,
+            713
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:13",
+        "target": "person",
+        "confidence": 0.88,
+        "bounding_box": [
+            55,
+            7,
+            1064,
+            713
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:13",
+        "target": "person",
+        "confidence": 0.85,
+        "bounding_box": [
+            67,
+            7,
+            1073,
+            714
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:13",
+        "target": "person",
+        "confidence": 0.91,
+        "bounding_box": [
+            56,
+            5,
+            1065,
+            713
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:13",
+        "target": "person",
+        "confidence": 0.91,
+        "bounding_box": [
+            53,
+            4,
+            1062,
+            713
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:13",
+        "target": "person",
+        "confidence": 0.91,
+        "bounding_box": [
+            53,
+            4,
+            1062,
+            713
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:13",
+        "target": "person",
+        "confidence": 0.9,
+        "bounding_box": [
+            60,
+            4,
+            1066,
+            713
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:13",
+        "target": "person",
+        "confidence": 0.9,
+        "bounding_box": [
+            64,
+            4,
+            1067,
+            713
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:13",
+        "target": "person",
+        "confidence": 0.9,
+        "bounding_box": [
+            66,
+            5,
+            1066,
+            713
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:13",
+        "target": "person",
+        "confidence": 0.88,
+        "bounding_box": [
+            61,
+            5,
+            1060,
+            713
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:13",
+        "target": "person",
+        "confidence": 0.88,
+        "bounding_box": [
+            60,
+            5,
+            1058,
+            712
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:14",
+        "target": "person",
+        "confidence": 0.89,
+        "bounding_box": [
+            231,
+            125,
+            1047,
+            715
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:14",
+        "target": "person",
+        "confidence": 0.89,
+        "bounding_box": [
+            301,
+            172,
+            1040,
+            716
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:14",
+        "target": "person",
+        "confidence": 0.91,
+        "bounding_box": [
+            336,
+            248,
+            970,
+            716
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:14",
+        "target": "person",
+        "confidence": 0.91,
+        "bounding_box": [
+            346,
+            273,
+            946,
+            716
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:15",
+        "target": "person",
+        "confidence": 0.75,
+        "bounding_box": [
+            363,
+            305,
+            912,
+            717
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:15",
+        "target": "person",
+        "confidence": 0.75,
+        "bounding_box": [
+            369,
+            314,
+            900,
+            717
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:17",
+        "target": "person",
+        "confidence": 0.79,
+        "bounding_box": [
+            402,
+            328,
+            902,
+            717
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:17",
+        "target": "person",
+        "confidence": 0.79,
+        "bounding_box": [
+            416,
+            332,
+            900,
+            717
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:17",
+        "target": "person",
+        "confidence": 0.83,
+        "bounding_box": [
+            429,
+            332,
+            901,
+            717
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:17",
+        "target": "person",
+        "confidence": 0.76,
+        "bounding_box": [
+            434,
+            331,
+            897,
+            716
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:17",
+        "target": "person",
+        "confidence": 0.76,
+        "bounding_box": [
+            438,
+            330,
+            893,
+            716
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:18",
+        "target": "person",
+        "confidence": 0.76,
+        "bounding_box": [
+            441,
+            329,
+            890,
+            716
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:18",
+        "target": "person",
+        "confidence": 0.77,
+        "bounding_box": [
+            444,
+            330,
+            885,
+            717
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:18",
+        "target": "person",
+        "confidence": 0.73,
+        "bounding_box": [
+            432,
+            327,
+            873,
+            717
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:18",
+        "target": "person",
+        "confidence": 0.73,
+        "bounding_box": [
+            428,
+            326,
+            867,
+            717
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:18",
+        "target": "person",
+        "confidence": 0.77,
+        "bounding_box": [
+            439,
+            327,
+            872,
+            716
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:18",
+        "target": "person",
+        "confidence": 0.77,
+        "bounding_box": [
+            444,
+            327,
+            873,
+            716
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:18",
+        "target": "person",
+        "confidence": 0.77,
+        "bounding_box": [
+            450,
+            328,
+            873,
+            717
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:18",
+        "target": "person",
+        "confidence": 0.77,
+        "bounding_box": [
+            453,
+            328,
+            872,
+            717
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:18",
+        "target": "person",
+        "confidence": 0.77,
+        "bounding_box": [
+            453,
+            327,
+            868,
+            717
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:18",
+        "target": "person",
+        "confidence": 0.77,
+        "bounding_box": [
+            454,
+            327,
+            866,
+            717
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:19",
+        "target": "person",
+        "confidence": 0.8,
+        "bounding_box": [
+            458,
+            327,
+            865,
+            717
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:19",
+        "target": "person",
+        "confidence": 0.8,
+        "bounding_box": [
+            461,
+            327,
+            863,
+            717
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:20",
+        "target": "person",
+        "confidence": 0.76,
+        "bounding_box": [
+            465,
+            327,
+            863,
+            717
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:20",
+        "target": "person",
+        "confidence": 0.69,
+        "bounding_box": [
+            438,
+            325,
+            841,
+            717
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:20",
+        "target": "person",
+        "confidence": 0.69,
+        "bounding_box": [
+            427,
+            325,
+            833,
+            716
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:20",
+        "target": "person",
+        "confidence": 0.69,
+        "bounding_box": [
+            422,
+            324,
+            831,
+            716
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:20",
+        "target": "person",
+        "confidence": 0.77,
+        "bounding_box": [
+            446,
+            323,
+            854,
+            717
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:21",
+        "target": "person",
+        "confidence": 0.83,
+        "bounding_box": [
+            428,
+            304,
+            862,
+            716
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:21",
+        "target": "person",
+        "confidence": 0.83,
+        "bounding_box": [
+            419,
+            297,
+            868,
+            716
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:21",
+        "target": "person",
+        "confidence": 0.83,
+        "bounding_box": [
+            414,
+            294,
+            871,
+            716
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:21",
+        "target": "person",
+        "confidence": 0.83,
+        "bounding_box": [
+            407,
+            293,
+            871,
+            716
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:23",
+        "target": "person",
+        "confidence": 0.93,
+        "bounding_box": [
+            352,
+            206,
+            923,
+            715
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:23",
+        "target": "person",
+        "confidence": 0.93,
+        "bounding_box": [
+            328,
+            175,
+            945,
+            715
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:23",
+        "target": "person",
+        "confidence": 0.92,
+        "bounding_box": [
+            315,
+            161,
+            958,
+            715
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:23",
+        "target": "person",
+        "confidence": 0.92,
+        "bounding_box": [
+            308,
+            156,
+            966,
+            715
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:24",
+        "target": "person",
+        "confidence": 0.92,
+        "bounding_box": [
+            301,
+            151,
+            973,
+            715
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:24",
+        "target": "person",
+        "confidence": 0.92,
+        "bounding_box": [
+            296,
+            150,
+            977,
+            715
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:24",
+        "target": "person",
+        "confidence": 0.92,
+        "bounding_box": [
+            295,
+            153,
+            978,
+            715
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:24",
+        "target": "person",
+        "confidence": 0.92,
+        "bounding_box": [
+            294,
+            155,
+            980,
+            715
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:24",
+        "target": "person",
+        "confidence": 0.92,
+        "bounding_box": [
+            290,
+            154,
+            983,
+            716
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:24",
+        "target": "person",
+        "confidence": 0.91,
+        "bounding_box": [
+            289,
+            156,
+            984,
+            716
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:24",
+        "target": "person",
+        "confidence": 0.93,
+        "bounding_box": [
+            288,
+            157,
+            985,
+            715
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:24",
+        "target": "person",
+        "confidence": 0.93,
+        "bounding_box": [
+            287,
+            157,
+            987,
+            715
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:25",
+        "target": "person",
+        "confidence": 0.91,
+        "bounding_box": [
+            285,
+            156,
+            989,
+            715
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:25",
+        "target": "person",
+        "confidence": 0.91,
+        "bounding_box": [
+            284,
+            155,
+            991,
+            716
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:25",
+        "target": "person",
+        "confidence": 0.91,
+        "bounding_box": [
+            283,
+            157,
+            992,
+            716
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:25",
+        "target": "person",
+        "confidence": 0.91,
+        "bounding_box": [
+            282,
+            157,
+            992,
+            716
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:25",
+        "target": "person",
+        "confidence": 0.91,
+        "bounding_box": [
+            284,
+            160,
+            992,
+            716
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:25",
+        "target": "person",
+        "confidence": 0.91,
+        "bounding_box": [
+            284,
+            161,
+            993,
+            716
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:25",
+        "target": "person",
+        "confidence": 0.92,
+        "bounding_box": [
+            284,
+            164,
+            991,
+            715
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:25",
+        "target": "person",
+        "confidence": 0.92,
+        "bounding_box": [
+            284,
+            164,
+            992,
+            715
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:26",
+        "target": "person",
+        "confidence": 0.92,
+        "bounding_box": [
+            283,
+            165,
+            991,
+            715
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:26",
+        "target": "person",
+        "confidence": 0.92,
+        "bounding_box": [
+            282,
+            165,
+            990,
+            715
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:26",
+        "target": "person",
+        "confidence": 0.92,
+        "bounding_box": [
+            282,
+            166,
+            990,
+            715
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:27",
+        "target": "person",
+        "confidence": 0.92,
+        "bounding_box": [
+            282,
+            167,
+            990,
+            715
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:27",
+        "target": "person",
+        "confidence": 0.92,
+        "bounding_box": [
+            283,
+            169,
+            990,
+            715
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:27",
+        "target": "person",
+        "confidence": 0.93,
+        "bounding_box": [
+            282,
+            168,
+            990,
+            715
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:27",
+        "target": "person",
+        "confidence": 0.92,
+        "bounding_box": [
+            280,
+            166,
+            992,
+            715
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:27",
+        "target": "person",
+        "confidence": 0.92,
+        "bounding_box": [
+            279,
+            165,
+            992,
+            715
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:27",
+        "target": "person",
+        "confidence": 0.92,
+        "bounding_box": [
+            282,
+            169,
+            991,
+            715
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:27",
+        "target": "person",
+        "confidence": 0.92,
+        "bounding_box": [
+            282,
+            169,
+            991,
+            715
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:27",
+        "target": "person",
+        "confidence": 0.92,
+        "bounding_box": [
+            281,
+            169,
+            991,
+            715
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:27",
+        "target": "person",
+        "confidence": 0.92,
+        "bounding_box": [
+            280,
+            168,
+            992,
+            716
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:27",
+        "target": "person",
+        "confidence": 0.92,
+        "bounding_box": [
+            281,
+            169,
+            991,
+            715
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:27",
+        "target": "person",
+        "confidence": 0.92,
+        "bounding_box": [
+            281,
+            170,
+            991,
+            715
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:28",
+        "target": "person",
+        "confidence": 0.93,
+        "bounding_box": [
+            280,
+            169,
+            991,
+            716
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:28",
+        "target": "person",
+        "confidence": 0.93,
+        "bounding_box": [
+            280,
+            168,
+            991,
+            716
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:28",
+        "target": "person",
+        "confidence": 0.93,
+        "bounding_box": [
+            280,
+            168,
+            991,
+            716
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:28",
+        "target": "person",
+        "confidence": 0.92,
+        "bounding_box": [
+            281,
+            171,
+            989,
+            716
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:28",
+        "target": "person",
+        "confidence": 0.92,
+        "bounding_box": [
+            282,
+            173,
+            987,
+            716
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:28",
+        "target": "person",
+        "confidence": 0.92,
+        "bounding_box": [
+            283,
+            174,
+            986,
+            716
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:28",
+        "target": "person",
+        "confidence": 0.92,
+        "bounding_box": [
+            283,
+            176,
+            985,
+            716
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:28",
+        "target": "person",
+        "confidence": 0.92,
+        "bounding_box": [
+            285,
+            177,
+            985,
+            716
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:28",
+        "target": "person",
+        "confidence": 0.92,
+        "bounding_box": [
+            286,
+            177,
+            985,
+            715
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:28",
+        "target": "person",
+        "confidence": 0.92,
+        "bounding_box": [
+            285,
+            177,
+            984,
+            715
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:29",
+        "target": "person",
+        "confidence": 0.92,
+        "bounding_box": [
+            286,
+            177,
+            984,
+            715
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:29",
+        "target": "person",
+        "confidence": 0.92,
+        "bounding_box": [
+            287,
+            177,
+            985,
+            715
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:29",
+        "target": "person",
+        "confidence": 0.93,
+        "bounding_box": [
+            288,
+            178,
+            984,
+            715
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:29",
+        "target": "person",
+        "confidence": 0.92,
+        "bounding_box": [
+            288,
+            181,
+            982,
+            716
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:29",
+        "target": "person",
+        "confidence": 0.92,
+        "bounding_box": [
+            289,
+            182,
+            982,
+            716
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:29",
+        "target": "person",
+        "confidence": 0.92,
+        "bounding_box": [
+            288,
+            180,
+            983,
+            715
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:29",
+        "target": "person",
+        "confidence": 0.92,
+        "bounding_box": [
+            288,
+            181,
+            983,
+            716
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:29",
+        "target": "person",
+        "confidence": 0.92,
+        "bounding_box": [
+            288,
+            181,
+            983,
+            716
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:30",
+        "target": "person",
+        "confidence": 0.92,
+        "bounding_box": [
+            288,
+            183,
+            981,
+            716
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:30",
+        "target": "person",
+        "confidence": 0.93,
+        "bounding_box": [
+            286,
+            179,
+            984,
+            716
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:30",
+        "target": "person",
+        "confidence": 0.93,
+        "bounding_box": [
+            286,
+            177,
+            985,
+            716
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:31",
+        "target": "person",
+        "confidence": 0.8,
+        "bounding_box": [
+            262,
+            184,
+            961,
+            717
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:31",
+        "target": "person",
+        "confidence": 0.8,
+        "bounding_box": [
+            251,
+            187,
+            954,
+            717
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:31",
+        "target": "person",
+        "confidence": 0.71,
+        "bounding_box": [
+            219,
+            186,
+            936,
+            717
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:31",
+        "target": "person",
+        "confidence": 0.71,
+        "bounding_box": [
+            209,
+            185,
+            937,
+            718
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:31",
+        "target": "person",
+        "confidence": 0.71,
+        "bounding_box": [
+            202,
+            185,
+            940,
+            718
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:31",
+        "target": "person",
+        "confidence": 0.66,
+        "bounding_box": [
+            192,
+            185,
+            940,
+            718
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:31",
+        "target": "person",
+        "confidence": 0.85,
+        "bounding_box": [
+            225,
+            186,
+            971,
+            718
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:31",
+        "target": "person",
+        "confidence": 0.85,
+        "bounding_box": [
+            238,
+            186,
+            983,
+            718
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:31",
+        "target": "person",
+        "confidence": 0.88,
+        "bounding_box": [
+            240,
+            185,
+            985,
+            718
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:31",
+        "target": "person",
+        "confidence": 0.86,
+        "bounding_box": [
+            243,
+            185,
+            988,
+            718
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:31",
+        "target": "person",
+        "confidence": 0.86,
+        "bounding_box": [
+            244,
+            184,
+            988,
+            718
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:32",
+        "target": "person",
+        "confidence": 0.83,
+        "bounding_box": [
+            245,
+            183,
+            989,
+            718
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:32",
+        "target": "person",
+        "confidence": 0.89,
+        "bounding_box": [
+            248,
+            183,
+            991,
+            718
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:32",
+        "target": "person",
+        "confidence": 0.89,
+        "bounding_box": [
+            250,
+            183,
+            991,
+            718
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:32",
+        "target": "person",
+        "confidence": 0.88,
+        "bounding_box": [
+            248,
+            182,
+            989,
+            717
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:32",
+        "target": "person",
+        "confidence": 0.9,
+        "bounding_box": [
+            252,
+            183,
+            989,
+            717
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:32",
+        "target": "person",
+        "confidence": 0.9,
+        "bounding_box": [
+            254,
+            184,
+            989,
+            717
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:32",
+        "target": "person",
+        "confidence": 0.91,
+        "bounding_box": [
+            245,
+            184,
+            981,
+            717
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:32",
+        "target": "person",
+        "confidence": 0.91,
+        "bounding_box": [
+            241,
+            184,
+            978,
+            717
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:32",
+        "target": "person",
+        "confidence": 0.92,
+        "bounding_box": [
+            237,
+            183,
+            976,
+            717
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:32",
+        "target": "person",
+        "confidence": 0.91,
+        "bounding_box": [
+            234,
+            181,
+            975,
+            717
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:32",
+        "target": "person",
+        "confidence": 0.91,
+        "bounding_box": [
+            232,
+            181,
+            975,
+            716
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:33",
+        "target": "person",
+        "confidence": 0.91,
+        "bounding_box": [
+            232,
+            181,
+            976,
+            717
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:33",
+        "target": "person",
+        "confidence": 0.91,
+        "bounding_box": [
+            231,
+            179,
+            979,
+            717
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:33",
+        "target": "person",
+        "confidence": 0.91,
+        "bounding_box": [
+            231,
+            178,
+            979,
+            717
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:33",
+        "target": "person",
+        "confidence": 0.91,
+        "bounding_box": [
+            231,
+            179,
+            978,
+            717
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:33",
+        "target": "person",
+        "confidence": 0.91,
+        "bounding_box": [
+            230,
+            178,
+            979,
+            717
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:33",
+        "target": "person",
+        "confidence": 0.91,
+        "bounding_box": [
+            230,
+            178,
+            980,
+            717
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:33",
+        "target": "person",
+        "confidence": 0.51,
+        "bounding_box": [
+            0,
+            31,
+            340,
+            706
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:34",
+        "target": "person",
+        "confidence": 0.91,
+        "bounding_box": [
+            194,
+            180,
+            951,
+            718
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:34",
+        "target": "person",
+        "confidence": 0.91,
+        "bounding_box": [
+            179,
+            180,
+            942,
+            718
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:35",
+        "target": "person",
+        "confidence": 0.86,
+        "bounding_box": [
+            205,
+            181,
+            964,
+            717
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:35",
+        "target": "person",
+        "confidence": 0.86,
+        "bounding_box": [
+            215,
+            182,
+            972,
+            717
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:35",
+        "target": "person",
+        "confidence": 0.83,
+        "bounding_box": [
+            216,
+            182,
+            973,
+            717
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:35",
+        "target": "person",
+        "confidence": 0.42,
+        "bounding_box": [
+            116,
+            127,
+            418,
+            706
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:35",
+        "target": "person",
+        "confidence": 0.85,
+        "bounding_box": [
+            223,
+            181,
+            978,
+            716
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:35",
+        "target": "person",
+        "confidence": 0.85,
+        "bounding_box": [
+            226,
+            180,
+            980,
+            716
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:35",
+        "target": "person",
+        "confidence": 0.83,
+        "bounding_box": [
+            223,
+            179,
+            978,
+            716
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:35",
+        "target": "person",
+        "confidence": 0.47,
+        "bounding_box": [
+            123,
+            155,
+            427,
+            712
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:35",
+        "target": "person",
+        "confidence": 0.84,
+        "bounding_box": [
+            222,
+            179,
+            976,
+            716
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:35",
+        "target": "person",
+        "confidence": 0.48,
+        "bounding_box": [
+            114,
+            150,
+            434,
+            713
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:35",
+        "target": "person",
+        "confidence": 0.84,
+        "bounding_box": [
+            221,
+            179,
+            975,
+            716
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:35",
+        "target": "person",
+        "confidence": 0.48,
+        "bounding_box": [
+            107,
+            149,
+            440,
+            713
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:35",
+        "target": "person",
+        "confidence": 0.86,
+        "bounding_box": [
+            224,
+            178,
+            977,
+            716
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:35",
+        "target": "person",
+        "confidence": 0.57,
+        "bounding_box": [
+            95,
+            145,
+            441,
+            711
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:35",
+        "target": "person",
+        "confidence": 0.87,
+        "bounding_box": [
+            224,
+            176,
+            977,
+            715
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:35",
+        "target": "person",
+        "confidence": 0.55,
+        "bounding_box": [
+            90,
+            150,
+            443,
+            710
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:35",
+        "target": "person",
+        "confidence": 0.87,
+        "bounding_box": [
+            224,
+            175,
+            977,
+            715
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:35",
+        "target": "person",
+        "confidence": 0.55,
+        "bounding_box": [
+            84,
+            152,
+            447,
+            710
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:35",
+        "target": "person",
+        "confidence": 0.86,
+        "bounding_box": [
+            226,
+            176,
+            977,
+            715
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:35",
+        "target": "person",
+        "confidence": 0.53,
+        "bounding_box": [
+            81,
+            157,
+            449,
+            709
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:35",
+        "target": "person",
+        "confidence": 0.84,
+        "bounding_box": [
+            227,
+            177,
+            975,
+            715
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:35",
+        "target": "person",
+        "confidence": 0.48,
+        "bounding_box": [
+            76,
+            156,
+            453,
+            710
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:36",
+        "target": "person",
+        "confidence": 0.84,
+        "bounding_box": [
+            227,
+            177,
+            974,
+            715
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:36",
+        "target": "person",
+        "confidence": 0.48,
+        "bounding_box": [
+            72,
+            156,
+            456,
+            710
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:36",
+        "target": "person",
+        "confidence": 0.77,
+        "bounding_box": [
+            226,
+            175,
+            974,
+            715
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:36",
+        "target": "person",
+        "confidence": 0.76,
+        "bounding_box": [
+            225,
+            175,
+            973,
+            715
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:36",
+        "target": "person",
+        "confidence": 0.45,
+        "bounding_box": [
+            78,
+            180,
+            453,
+            709
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:36",
+        "target": "person",
+        "confidence": 0.84,
+        "bounding_box": [
+            225,
+            174,
+            974,
+            716
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:36",
+        "target": "person",
+        "confidence": 0.84,
+        "bounding_box": [
+            225,
+            173,
+            975,
+            717
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:36",
+        "target": "person",
+        "confidence": 0.83,
+        "bounding_box": [
+            227,
+            175,
+            972,
+            716
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:36",
+        "target": "person",
+        "confidence": 0.83,
+        "bounding_box": [
+            228,
+            176,
+            970,
+            716
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:36",
+        "target": "person",
+        "confidence": 0.82,
+        "bounding_box": [
+            230,
+            177,
+            969,
+            715
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:36",
+        "target": "person",
+        "confidence": 0.53,
+        "bounding_box": [
+            63,
+            158,
+            462,
+            710
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:36",
+        "target": "person",
+        "confidence": 0.76,
+        "bounding_box": [
+            228,
+            177,
+            969,
+            716
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:36",
+        "target": "person",
+        "confidence": 0.76,
+        "bounding_box": [
+            228,
+            178,
+            969,
+            716
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:36",
+        "target": "person",
+        "confidence": 0.79,
+        "bounding_box": [
+            227,
+            178,
+            968,
+            716
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:36",
+        "target": "person",
+        "confidence": 0.85,
+        "bounding_box": [
+            231,
+            177,
+            970,
+            716
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:36",
+        "target": "person",
+        "confidence": 0.41,
+        "bounding_box": [
+            57,
+            153,
+            467,
+            709
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:36",
+        "target": "person",
+        "confidence": 0.85,
+        "bounding_box": [
+            232,
+            177,
+            970,
+            715
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:36",
+        "target": "person",
+        "confidence": 0.41,
+        "bounding_box": [
+            53,
+            153,
+            471,
+            708
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:36",
+        "target": "person",
+        "confidence": 0.87,
+        "bounding_box": [
+            233,
+            178,
+            970,
+            716
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:37",
+        "target": "person",
+        "confidence": 0.9,
+        "bounding_box": [
+            170,
+            62,
+            1058,
+            715
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:37",
+        "target": "person",
+        "confidence": 0.9,
+        "bounding_box": [
+            150,
+            21,
+            1087,
+            715
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:35:39",
+        "target": "person",
+        "confidence": 0.91,
+        "bounding_box": [
+            141,
+            4,
+            1096,
+            714
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    }
+]

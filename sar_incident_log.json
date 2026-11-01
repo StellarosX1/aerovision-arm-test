@@ -1,0 +1,2057 @@
+[
+    {
+        "timestamp": "2026-08-28 22:16:57",
+        "target": "Survivor (Ground)",
+        "confidence": 0.73,
+        "bounding_box": [
+            427,
+            118,
+            885,
+            716
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:16:57",
+        "target": "Survivor (Ground)",
+        "confidence": 0.72,
+        "bounding_box": [
+            429,
+            120,
+            883,
+            712
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:16:57",
+        "target": "Survivor (Ground)",
+        "confidence": 0.75,
+        "bounding_box": [
+            422,
+            123,
+            876,
+            714
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:16:58",
+        "target": "Survivor (Ground)",
+        "confidence": 0.76,
+        "bounding_box": [
+            431,
+            176,
+            847,
+            714
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:16:59",
+        "target": "Survivor (Ground)",
+        "confidence": 0.75,
+        "bounding_box": [
+            436,
+            187,
+            846,
+            716
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:17:00",
+        "target": "Survivor (Ground)",
+        "confidence": 0.75,
+        "bounding_box": [
+            443,
+            192,
+            852,
+            718
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:17:00",
+        "target": "Survivor (Ground)",
+        "confidence": 0.78,
+        "bounding_box": [
+            460,
+            189,
+            874,
+            719
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:17:00",
+        "target": "Survivor (Ground)",
+        "confidence": 0.75,
+        "bounding_box": [
+            456,
+            185,
+            873,
+            718
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:17:06",
+        "target": "Survivor (Ground)",
+        "confidence": 0.47,
+        "bounding_box": [
+            165,
+            147,
+            722,
+            714
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:17:07",
+        "target": "Survivor (Ground)",
+        "confidence": 0.67,
+        "bounding_box": [
+            484,
+            232,
+            866,
+            715
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:17:08",
+        "target": "Survivor (Ground)",
+        "confidence": 0.57,
+        "bounding_box": [
+            29,
+            286,
+            469,
+            716
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:17:08",
+        "target": "Survivor (Ground)",
+        "confidence": 0.79,
+        "bounding_box": [
+            488,
+            240,
+            866,
+            715
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:17:08",
+        "target": "Survivor (Ground)",
+        "confidence": 0.52,
+        "bounding_box": [
+            15,
+            272,
+            470,
+            715
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:17:08",
+        "target": "Survivor (Ground)",
+        "confidence": 0.78,
+        "bounding_box": [
+            488,
+            242,
+            867,
+            715
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:17:08",
+        "target": "Survivor (Ground)",
+        "confidence": 0.55,
+        "bounding_box": [
+            7,
+            259,
+            473,
+            714
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:17:08",
+        "target": "Survivor (Ground)",
+        "confidence": 0.6,
+        "bounding_box": [
+            485,
+            244,
+            865,
+            714
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:17:09",
+        "target": "Survivor (Ground)",
+        "confidence": 0.58,
+        "bounding_box": [
+            9,
+            257,
+            478,
+            715
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:17:09",
+        "target": "Survivor (Ground)",
+        "confidence": 0.72,
+        "bounding_box": [
+            485,
+            244,
+            868,
+            714
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:17:09",
+        "target": "Survivor (Ground)",
+        "confidence": 0.52,
+        "bounding_box": [
+            12,
+            261,
+            477,
+            715
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:17:09",
+        "target": "Survivor (Ground)",
+        "confidence": 0.65,
+        "bounding_box": [
+            484,
+            245,
+            868,
+            714
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:17:09",
+        "target": "Survivor (Ground)",
+        "confidence": 0.53,
+        "bounding_box": [
+            11,
+            256,
+            483,
+            716
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:17:09",
+        "target": "Survivor (Ground)",
+        "confidence": 0.72,
+        "bounding_box": [
+            484,
+            245,
+            871,
+            713
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:17:09",
+        "target": "Survivor (Ground)",
+        "confidence": 0.66,
+        "bounding_box": [
+            12,
+            260,
+            481,
+            716
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:17:09",
+        "target": "Survivor (Ground)",
+        "confidence": 0.67,
+        "bounding_box": [
+            483,
+            245,
+            872,
+            714
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:17:10",
+        "target": "Survivor (Ground)",
+        "confidence": 0.61,
+        "bounding_box": [
+            13,
+            264,
+            478,
+            715
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:17:10",
+        "target": "Survivor (Ground)",
+        "confidence": 0.66,
+        "bounding_box": [
+            481,
+            246,
+            871,
+            713
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:17:10",
+        "target": "Survivor (Ground)",
+        "confidence": 0.59,
+        "bounding_box": [
+            17,
+            269,
+            479,
+            716
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:17:10",
+        "target": "Survivor (Ground)",
+        "confidence": 0.74,
+        "bounding_box": [
+            481,
+            246,
+            873,
+            713
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:17:10",
+        "target": "Aerial Tiny Spec",
+        "confidence": 0.31,
+        "bounding_box": [
+            68,
+            556,
+            79,
+            571
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:17:10",
+        "target": "Survivor (Ground)",
+        "confidence": 0.66,
+        "bounding_box": [
+            24,
+            277,
+            478,
+            715
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:17:10",
+        "target": "Survivor (Ground)",
+        "confidence": 0.6,
+        "bounding_box": [
+            479,
+            245,
+            873,
+            714
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:17:10",
+        "target": "Survivor (Ground)",
+        "confidence": 0.5,
+        "bounding_box": [
+            18,
+            274,
+            477,
+            715
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:17:10",
+        "target": "Survivor (Ground)",
+        "confidence": 0.76,
+        "bounding_box": [
+            475,
+            244,
+            873,
+            714
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:17:16",
+        "target": "Survivor (Ground)",
+        "confidence": 0.65,
+        "bounding_box": [
+            347,
+            160,
+            906,
+            717
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:17:17",
+        "target": "Survivor (Ground)",
+        "confidence": 0.63,
+        "bounding_box": [
+            348,
+            158,
+            916,
+            715
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:17:17",
+        "target": "Survivor (Ground)",
+        "confidence": 0.6,
+        "bounding_box": [
+            368,
+            155,
+            945,
+            715
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:17:18",
+        "target": "Survivor (Ground)",
+        "confidence": 0.64,
+        "bounding_box": [
+            354,
+            158,
+            933,
+            716
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:17:18",
+        "target": "Survivor (Ground)",
+        "confidence": 0.66,
+        "bounding_box": [
+            338,
+            160,
+            922,
+            714
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:17:18",
+        "target": "Survivor (Ground)",
+        "confidence": 0.65,
+        "bounding_box": [
+            327,
+            157,
+            917,
+            713
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:17:19",
+        "target": "Survivor (Ground)",
+        "confidence": 0.69,
+        "bounding_box": [
+            336,
+            164,
+            923,
+            714
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:17:19",
+        "target": "Survivor (Ground)",
+        "confidence": 0.61,
+        "bounding_box": [
+            332,
+            155,
+            929,
+            714
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:17:19",
+        "target": "Survivor (Ground)",
+        "confidence": 0.7,
+        "bounding_box": [
+            322,
+            155,
+            920,
+            712
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:17:19",
+        "target": "Survivor (Ground)",
+        "confidence": 0.68,
+        "bounding_box": [
+            316,
+            155,
+            918,
+            712
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:17:20",
+        "target": "Survivor (Ground)",
+        "confidence": 0.6,
+        "bounding_box": [
+            303,
+            148,
+            914,
+            713
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:17:20",
+        "target": "Aerial Tiny Spec",
+        "confidence": 0.36,
+        "bounding_box": [
+            1082,
+            598,
+            1096,
+            613
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:17:20",
+        "target": "Survivor (Ground)",
+        "confidence": 0.57,
+        "bounding_box": [
+            295,
+            138,
+            920,
+            715
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:17:21",
+        "target": "Survivor (Ground)",
+        "confidence": 0.5,
+        "bounding_box": [
+            288,
+            133,
+            917,
+            713
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:17:21",
+        "target": "Survivor (Ground)",
+        "confidence": 0.65,
+        "bounding_box": [
+            291,
+            134,
+            920,
+            713
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:17:22",
+        "target": "Survivor (Ground)",
+        "confidence": 0.74,
+        "bounding_box": [
+            294,
+            135,
+            922,
+            713
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:17:23",
+        "target": "Survivor (Ground)",
+        "confidence": 0.59,
+        "bounding_box": [
+            307,
+            136,
+            930,
+            713
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:17:23",
+        "target": "Survivor (Ground)",
+        "confidence": 0.66,
+        "bounding_box": [
+            312,
+            137,
+            930,
+            713
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:17:26",
+        "target": "Survivor (Ground)",
+        "confidence": 0.62,
+        "bounding_box": [
+            319,
+            147,
+            926,
+            715
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:17:27",
+        "target": "Survivor (Ground)",
+        "confidence": 0.59,
+        "bounding_box": [
+            317,
+            148,
+            922,
+            716
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:17:28",
+        "target": "Survivor (Ground)",
+        "confidence": 0.63,
+        "bounding_box": [
+            326,
+            146,
+            928,
+            715
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:17:30",
+        "target": "Survivor (Ground)",
+        "confidence": 0.61,
+        "bounding_box": [
+            324,
+            145,
+            924,
+            715
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:17:30",
+        "target": "Survivor (Ground)",
+        "confidence": 0.63,
+        "bounding_box": [
+            320,
+            145,
+            918,
+            714
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:17:30",
+        "target": "Survivor (Ground)",
+        "confidence": 0.64,
+        "bounding_box": [
+            316,
+            145,
+            912,
+            713
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:17:31",
+        "target": "Survivor (Ground)",
+        "confidence": 0.64,
+        "bounding_box": [
+            325,
+            146,
+            917,
+            713
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:17:31",
+        "target": "Survivor (Ground)",
+        "confidence": 0.61,
+        "bounding_box": [
+            322,
+            147,
+            913,
+            713
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:17:32",
+        "target": "Survivor (Ground)",
+        "confidence": 0.65,
+        "bounding_box": [
+            334,
+            143,
+            929,
+            715
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:17:33",
+        "target": "Survivor (Ground)",
+        "confidence": 0.72,
+        "bounding_box": [
+            327,
+            142,
+            918,
+            713
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:17:37",
+        "target": "Survivor (Ground)",
+        "confidence": 0.57,
+        "bounding_box": [
+            359,
+            144,
+            941,
+            716
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:17:39",
+        "target": "Survivor (Ground)",
+        "confidence": 0.56,
+        "bounding_box": [
+            374,
+            280,
+            826,
+            717
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:17:39",
+        "target": "Survivor (Ground)",
+        "confidence": 0.39,
+        "bounding_box": [
+            494,
+            348,
+            796,
+            716
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:17:44",
+        "target": "Survivor (Ground)",
+        "confidence": 0.61,
+        "bounding_box": [
+            335,
+            140,
+            926,
+            718
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:17:44",
+        "target": "Survivor (Ground)",
+        "confidence": 0.67,
+        "bounding_box": [
+            327,
+            106,
+            948,
+            717
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:21:12",
+        "target": "Survivor",
+        "confidence": 0.93,
+        "bounding_box": [
+            207,
+            45,
+            1011,
+            712
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:21:15",
+        "target": "Survivor",
+        "confidence": 0.92,
+        "bounding_box": [
+            319,
+            177,
+            968,
+            715
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:21:15",
+        "target": "Survivor",
+        "confidence": 0.92,
+        "bounding_box": [
+            337,
+            198,
+            961,
+            715
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:21:15",
+        "target": "Survivor",
+        "confidence": 0.93,
+        "bounding_box": [
+            339,
+            201,
+            962,
+            715
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:21:15",
+        "target": "Survivor",
+        "confidence": 0.92,
+        "bounding_box": [
+            338,
+            201,
+            962,
+            715
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:21:15",
+        "target": "Survivor",
+        "confidence": 0.92,
+        "bounding_box": [
+            336,
+            200,
+            963,
+            715
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:21:15",
+        "target": "Survivor",
+        "confidence": 0.92,
+        "bounding_box": [
+            333,
+            199,
+            964,
+            715
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:21:15",
+        "target": "Survivor",
+        "confidence": 0.93,
+        "bounding_box": [
+            332,
+            198,
+            966,
+            715
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:21:15",
+        "target": "Survivor",
+        "confidence": 0.93,
+        "bounding_box": [
+            330,
+            197,
+            967,
+            715
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:21:15",
+        "target": "Survivor",
+        "confidence": 0.93,
+        "bounding_box": [
+            330,
+            197,
+            968,
+            715
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:21:15",
+        "target": "Survivor",
+        "confidence": 0.93,
+        "bounding_box": [
+            328,
+            196,
+            969,
+            715
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:21:15",
+        "target": "Survivor",
+        "confidence": 0.93,
+        "bounding_box": [
+            326,
+            196,
+            970,
+            715
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:21:15",
+        "target": "Survivor",
+        "confidence": 0.92,
+        "bounding_box": [
+            326,
+            196,
+            971,
+            715
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:21:15",
+        "target": "Survivor",
+        "confidence": 0.92,
+        "bounding_box": [
+            325,
+            195,
+            973,
+            715
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:21:15",
+        "target": "Survivor",
+        "confidence": 0.92,
+        "bounding_box": [
+            324,
+            195,
+            974,
+            715
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:21:16",
+        "target": "Survivor",
+        "confidence": 0.92,
+        "bounding_box": [
+            323,
+            195,
+            974,
+            715
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:21:16",
+        "target": "Survivor",
+        "confidence": 0.92,
+        "bounding_box": [
+            323,
+            195,
+            975,
+            715
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:21:16",
+        "target": "Survivor",
+        "confidence": 0.92,
+        "bounding_box": [
+            322,
+            195,
+            976,
+            715
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:21:16",
+        "target": "Survivor",
+        "confidence": 0.92,
+        "bounding_box": [
+            321,
+            194,
+            977,
+            715
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:21:16",
+        "target": "Survivor",
+        "confidence": 0.93,
+        "bounding_box": [
+            320,
+            194,
+            977,
+            715
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:21:16",
+        "target": "Survivor",
+        "confidence": 0.93,
+        "bounding_box": [
+            319,
+            194,
+            977,
+            715
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:21:16",
+        "target": "Survivor",
+        "confidence": 0.92,
+        "bounding_box": [
+            319,
+            193,
+            978,
+            715
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:21:16",
+        "target": "Survivor",
+        "confidence": 0.93,
+        "bounding_box": [
+            319,
+            194,
+            978,
+            715
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:21:16",
+        "target": "Survivor",
+        "confidence": 0.93,
+        "bounding_box": [
+            319,
+            194,
+            978,
+            715
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:21:16",
+        "target": "Survivor",
+        "confidence": 0.92,
+        "bounding_box": [
+            318,
+            194,
+            979,
+            715
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:21:19",
+        "target": "Survivor",
+        "confidence": 0.92,
+        "bounding_box": [
+            316,
+            208,
+            959,
+            716
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:21:19",
+        "target": "Survivor",
+        "confidence": 0.92,
+        "bounding_box": [
+            315,
+            214,
+            951,
+            717
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:21:19",
+        "target": "Survivor",
+        "confidence": 0.92,
+        "bounding_box": [
+            315,
+            216,
+            948,
+            717
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:21:19",
+        "target": "Survivor",
+        "confidence": 0.92,
+        "bounding_box": [
+            315,
+            218,
+            947,
+            717
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:21:19",
+        "target": "Survivor",
+        "confidence": 0.92,
+        "bounding_box": [
+            315,
+            218,
+            946,
+            717
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:21:19",
+        "target": "Survivor",
+        "confidence": 0.92,
+        "bounding_box": [
+            316,
+            218,
+            946,
+            717
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:21:21",
+        "target": "Survivor",
+        "confidence": 0.92,
+        "bounding_box": [
+            316,
+            218,
+            946,
+            717
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:21:21",
+        "target": "Survivor",
+        "confidence": 0.92,
+        "bounding_box": [
+            316,
+            219,
+            946,
+            717
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:21:21",
+        "target": "Survivor",
+        "confidence": 0.92,
+        "bounding_box": [
+            315,
+            218,
+            947,
+            717
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:21:21",
+        "target": "Survivor",
+        "confidence": 0.91,
+        "bounding_box": [
+            318,
+            220,
+            947,
+            716
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:21:21",
+        "target": "Survivor",
+        "confidence": 0.91,
+        "bounding_box": [
+            318,
+            221,
+            947,
+            716
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:21:22",
+        "target": "Survivor",
+        "confidence": 0.91,
+        "bounding_box": [
+            330,
+            240,
+            937,
+            716
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:21:22",
+        "target": "Survivor",
+        "confidence": 0.91,
+        "bounding_box": [
+            333,
+            248,
+            935,
+            716
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:21:22",
+        "target": "Survivor",
+        "confidence": 0.92,
+        "bounding_box": [
+            332,
+            251,
+            933,
+            715
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:21:23",
+        "target": "Survivor",
+        "confidence": 0.92,
+        "bounding_box": [
+            330,
+            251,
+            933,
+            715
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:21:23",
+        "target": "Survivor",
+        "confidence": 0.92,
+        "bounding_box": [
+            329,
+            252,
+            934,
+            716
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:21:23",
+        "target": "Survivor",
+        "confidence": 0.92,
+        "bounding_box": [
+            327,
+            252,
+            934,
+            716
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:21:23",
+        "target": "Survivor",
+        "confidence": 0.92,
+        "bounding_box": [
+            326,
+            253,
+            935,
+            716
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:21:24",
+        "target": "Survivor",
+        "confidence": 0.92,
+        "bounding_box": [
+            325,
+            252,
+            936,
+            715
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:21:24",
+        "target": "Survivor",
+        "confidence": 0.92,
+        "bounding_box": [
+            324,
+            252,
+            937,
+            715
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:21:24",
+        "target": "Survivor",
+        "confidence": 0.92,
+        "bounding_box": [
+            322,
+            251,
+            937,
+            715
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:21:24",
+        "target": "Survivor",
+        "confidence": 0.92,
+        "bounding_box": [
+            321,
+            251,
+            938,
+            715
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:21:24",
+        "target": "Survivor",
+        "confidence": 0.92,
+        "bounding_box": [
+            322,
+            252,
+            938,
+            715
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:21:25",
+        "target": "Survivor",
+        "confidence": 0.92,
+        "bounding_box": [
+            320,
+            250,
+            940,
+            716
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:21:25",
+        "target": "Survivor",
+        "confidence": 0.92,
+        "bounding_box": [
+            319,
+            250,
+            941,
+            716
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:21:25",
+        "target": "Survivor",
+        "confidence": 0.92,
+        "bounding_box": [
+            318,
+            249,
+            942,
+            716
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:21:25",
+        "target": "Survivor",
+        "confidence": 0.92,
+        "bounding_box": [
+            319,
+            251,
+            943,
+            716
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:21:25",
+        "target": "Survivor",
+        "confidence": 0.92,
+        "bounding_box": [
+            315,
+            245,
+            946,
+            716
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:21:25",
+        "target": "Survivor",
+        "confidence": 0.92,
+        "bounding_box": [
+            313,
+            243,
+            947,
+            716
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:21:25",
+        "target": "Survivor",
+        "confidence": 0.92,
+        "bounding_box": [
+            309,
+            238,
+            949,
+            716
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:21:25",
+        "target": "Survivor",
+        "confidence": 0.92,
+        "bounding_box": [
+            308,
+            237,
+            950,
+            717
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:21:26",
+        "target": "Survivor",
+        "confidence": 0.93,
+        "bounding_box": [
+            308,
+            240,
+            942,
+            716
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:21:26",
+        "target": "Survivor",
+        "confidence": 0.93,
+        "bounding_box": [
+            309,
+            242,
+            939,
+            715
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:21:28",
+        "target": "Survivor",
+        "confidence": 0.91,
+        "bounding_box": [
+            203,
+            91,
+            1027,
+            715
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:21:29",
+        "target": "Survivor",
+        "confidence": 0.91,
+        "bounding_box": [
+            168,
+            39,
+            1056,
+            714
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:21:29",
+        "target": "Survivor",
+        "confidence": 0.9,
+        "bounding_box": [
+            153,
+            15,
+            1067,
+            714
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:21:29",
+        "target": "Survivor",
+        "confidence": 0.91,
+        "bounding_box": [
+            147,
+            4,
+            1070,
+            714
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:21:29",
+        "target": "Survivor",
+        "confidence": 0.91,
+        "bounding_box": [
+            148,
+            1,
+            1071,
+            715
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:21:29",
+        "target": "Survivor",
+        "confidence": 0.91,
+        "bounding_box": [
+            150,
+            1,
+            1069,
+            715
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:21:29",
+        "target": "Survivor",
+        "confidence": 0.91,
+        "bounding_box": [
+            152,
+            2,
+            1067,
+            715
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:21:29",
+        "target": "Survivor",
+        "confidence": 0.91,
+        "bounding_box": [
+            155,
+            3,
+            1064,
+            715
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:21:29",
+        "target": "Survivor",
+        "confidence": 0.91,
+        "bounding_box": [
+            159,
+            4,
+            1062,
+            715
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:21:29",
+        "target": "Survivor",
+        "confidence": 0.92,
+        "bounding_box": [
+            164,
+            8,
+            1059,
+            714
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:21:30",
+        "target": "Survivor",
+        "confidence": 0.92,
+        "bounding_box": [
+            167,
+            9,
+            1056,
+            714
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:21:30",
+        "target": "Survivor",
+        "confidence": 0.93,
+        "bounding_box": [
+            172,
+            14,
+            1052,
+            714
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    },
+    {
+        "timestamp": "2026-08-28 22:21:30",
+        "target": "Survivor",
+        "confidence": 0.93,
+        "bounding_box": [
+            175,
+            16,
+            1049,
+            713
+        ],
+        "mock_gps": {
+            "lat": 13.0827,
+            "lon": 80.2707
+        }
+    }
+]
