@@ -19,8 +19,8 @@ jobs:
       - name: Install Ultralytics
         run: pip install ultralytics opencv-python-headless
       - name: Run detection
-        run: yolo predict model=yolo26n.pt source=test.mp4 imgsz=640
+        run: yolo predict model=yolo26n.pt source=test.mp4 imgsz=640 project=$GITHUB_WORKSPACE/out name=predict
       - uses: actions/upload-artifact@v4
         with:
           name: output
-          path: runs
+          path: out
